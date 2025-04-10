@@ -17,4 +17,4 @@ React Framework:React is used for fast, component-based development
 
 CSS Styling:Custom CSS for a polished, minimal look
 
-<p align="center">Made with 💙 by <strong>Saumya Prakash </strong>. Thanks for stopping by — happy building! </p>
+<p align="center">Made with ❤️ by <strong>Saumya Prakash</strong>. Thank you checking it out — happy building!</p>
